@@ -1,4 +1,4 @@
-import ScrollReveal from "@/components/ScrollReveal";
+﻿import ScrollReveal from "@/components/ScrollReveal";
 import RotatingRole from "@/components/RotatingRole";
 
 export default function Home() {
@@ -145,4 +145,3 @@ export default function Home() {
     </main>
   );
 }
-

@@ -139,4 +139,3 @@ em { font-family: Georgia, serif; font-weight: 400; }
 @media (max-width: 700px) { .disciplines-heading { margin-bottom: 36px; font-size: 11px; } .discipline-grid { grid-template-columns: 1fr; gap: 16px; } .discipline-card, .discipline-card:last-child { grid-column: auto; } .discipline-summary { min-height: 430px; padding: 26px; } .discipline-card[open] .discipline-summary { min-height: 300px; } .discipline-title { font-size: 38px; } .discipline-details { padding: 0 26px 28px; } }
 @media (max-width: 700px) { .faq-list { margin-top: 38px; gap: 10px; } .faq-item summary { grid-template-columns: 22px minmax(0, 1fr) 20px; column-gap: 12px; padding: 18px; font-size: 19px; } .faq-number { font-size: 11px; } .faq-toggle { font-size: 22px; } .faq-item p { padding: 0 20px 24px 52px; } }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; transition-duration: .01ms !important; } }
-

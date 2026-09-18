@@ -18,4 +18,3 @@ npm run build
 ```
 
 The featured project cards are placeholders. The LinkedIn and Vercel footer icons are visual placeholders until their profile URLs are supplied.
-

@@ -30,4 +30,3 @@ export default function ScrollReveal({ children }: { children: React.ReactNode }
 
   return <div ref={root}>{children}</div>;
 }
-
