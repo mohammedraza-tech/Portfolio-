@@ -1,4 +1,4 @@
-# Mohammed Raza â€” Portfolio
+# Mohammed Raza — Portfolio
 
 Personal portfolio built with Next.js, React, GSAP ScrollTrigger, and Lenis. The project also includes React Three Fiber and Three.js components, though the current page does not render a 3D scene.
 

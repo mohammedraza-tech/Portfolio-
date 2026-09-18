@@ -1,0 +1,30 @@
+{
+  "name": "portfolio-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource/alex-brush": "^5.3.0",
+    "@fontsource/ibm-plex-sans": "^5.3.0",
+    "@react-three/fiber": "latest",
+    "gsap": "latest",
+    "lenis": "latest",
+    "next": "latest",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "three": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/three": "latest",
+    "typescript": "latest"
+  }
+}
+
